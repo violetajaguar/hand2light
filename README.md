@@ -45,3 +45,18 @@ The system auto-handles Twinkly authentication and token verification.
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
+
+---
+
+## Troubleshooting
+
+- **No camera feed?** Check camera permissions on macOS/Windows.
+- **No lights response?** Confirm `LIGHTS_IP` is correct and that the lights are on the same Wi-Fi network.
+- **MediaPipe errors?** Make sure you are using Python 3.11 as documented.
+
+---
+
+## Maintainer
+
+**Violeta Ayala** — United Notions Film  
+Email: v@unf.red
