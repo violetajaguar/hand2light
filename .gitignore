@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+hand_lights_env_311/
+
+# macOS
+.DS_Store
+
